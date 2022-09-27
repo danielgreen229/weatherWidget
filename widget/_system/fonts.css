@@ -1,0 +1,36 @@
+@font-face {
+    font-family: 'ALS Hauss';
+    src: url('fonts/hauss/ALSHauss-Regular.woff2') format('woff2'),
+        url('fonts/hauss/ALSHauss-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'ALS Hauss';
+    src: url('fonts/hauss/ALSHauss-Bold.woff2') format('woff2'),
+        url('fonts/hauss/ALSHauss-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'ALS Hauss';
+    src: url('fonts/hauss/ALSHauss-BoldItalic.woff2') format('woff2'),
+        url('fonts/hauss/ALSHauss-BoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'ALS Hauss';
+    src: url('fonts/hauss/ALSHauss-RegularItalic.woff2') format('woff2'),
+        url('fonts/hauss/ALSHauss-RegularItalic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
